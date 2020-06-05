@@ -24,6 +24,18 @@
     #page-home main{
         align-items: center;
     }
+
+    /* Search Results */
+
+    #page-search-results main .cards{
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results main img{
+        height: 250px;
+    }
+
+    
 }
 
 @media(min-width: 1700px){
