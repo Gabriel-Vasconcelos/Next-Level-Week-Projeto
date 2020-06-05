@@ -5,13 +5,20 @@ Project designed to help people search for collection points efficiently, taught
 
   - Tela Inicial
   
-![Print da Tela inicial](print.PNG?raw=true "Print da Tela Inicial")
+![Print da Tela inicial](/prints-do-projeto/print.PNG?raw=true "Print da Tela Inicial")
 
+  - Modal
+  
+![Print do Modal](/prints-do-projeto/print4.png?raw=true "Print do Modal")
 
   - Tela de Cadastro
   
-![Print da Tela de Cadastro](print2.PNG?raw=true "Print da Tela de Cadastro")
-obs: Zoom de 67% para que o print pegasse a página inteira, por isso a falta de qualidade.
+![Print da Tela de Cadastro](/prints-do-projeto/print2.png?raw=true "Print da Tela de Cadastro")
+
+ - Tela de Resultados da Pesquisa
+  
+![Print de Resultados da Pesquisa](./prints-do-projeto/print3.png?raw=true "Tela de Resultados da Pesquisa")
+
 
 #### Ferramentas 
   - HTML;
