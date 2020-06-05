@@ -26,5 +26,6 @@ obs: Zoom de 67% para que o print pegasse a página inteira, por isso a falta de
   - Em conclusão;
   - Responsivo; 
   - Uso de API's;
+  - Uso de FlexBox e CSS Grid;
   - UX/UI;
   - Não Autoral.
