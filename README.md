@@ -23,16 +23,24 @@ Project designed to help people search for collection points efficiently, taught
 #### Ferramentas 
   - HTML;
   - CSS;
-  - JavaScript.
+  - JavaScript;
+  - NodeJS;
+  - SQlite;
+  - Nunjucks.
+  
   
 #### Objetivo
   - Praticar e evoluir ao decorrer da NLW.
   
   
 #### Características do Projeto 
-  - Em conclusão;
+  - Finalizado;
   - Responsivo; 
   - Uso de API's;
   - Uso de FlexBox e CSS Grid;
+  - Uso de Template-Engine (Nunjucks);
+  - Banco de Dados (SQLITE);
+  - Manipulação de Dados do BD (NodeJS);
+  - Sistema de pesquisa;
   - UX/UI;
   - Não Autoral.
