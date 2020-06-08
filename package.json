@@ -1,0 +1,28 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Project designed to help people search for collection points efficiently, taught by RocketSeat",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Vasconcelos/Next-Level-Week-Projeto.git"
+  },
+  "keywords": [],
+  "author": "Gabriel Vasconcelos da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Vasconcelos/Next-Level-Week-Projeto/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Vasconcelos/Next-Level-Week-Projeto#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

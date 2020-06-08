@@ -25,6 +25,16 @@
         align-items: center;
     }
 
+    /* Create Point*/
+
+    #page-create-point .field-group{
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field{
+        margin-left: 0;
+    }
+
     /* Search Results */
 
     #page-search-results main .cards{
